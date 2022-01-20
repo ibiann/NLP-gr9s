@@ -7,7 +7,7 @@
 
 ### Project Name: Spam email detection
 ### Project description:
-__In this project, we will build a spam email classifier that can tell whether a given email is a spam email or not based on the email’s content. In the email classification, after preprocessing the email contents, I will use three machine learning algorithms to train our dataset which are Naive Bayes, logistic regression and support vector machine. By changing the parameters in these algorithm, I can find the best model for these algorithms. After we get the training results from the training set, I will calculate some evaluation matrics to discuss our results and judge our models.__
+__In this project, we will build a spam email classifier that can tell whether a given email is a spam email or not based on the email’s content. In the email classification, after preprocessing the email contents, I will use three machine learning algorithms to train our dataset which are bags-of-words, logistic regression. By changing the parameters in these algorithm, I can find the best model for these algorithms. After we get the training results from the training set, evaluate matrics to discuss our results and judge our models.__
 ### Project plan:
 - Clean up the data set. Our dataset is from 
 - Preprocessing emails. (e.g. stem the words and change '$' sign to 'dollar')
