@@ -3,6 +3,7 @@
 * Members:
 * Phạm Chí Trung
 * Phạm Tuấn Thành
+* Nguyễn Hoàng Minh 
 * Vũ Tuấn Phương Nam
 
 ### Project Name: Spam email detection
